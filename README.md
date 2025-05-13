@@ -5,8 +5,8 @@ This project is a binary image classifier that distinguishes between **healthy**
 ## 📁 Dataset
 
 - Images are organized in the `train/` folder with two subfolders:
-  - `train/healthy/`
-  - `train/sick/`
+  - `train/Healthy/`
+  - `train/Sick/`
 - The original dataset is split into:
   - 80% training
   - 20% validation
