@@ -1,0 +1,35 @@
+# Basic numerical and data handling libraries
+numpy
+pandas
+scikit-learn
+scipy
+plotly
+
+# Tree-based models
+xgboost
+lightgbm
+catboost
+
+# Neural networks
+tensorflow
+torch
+torchvision
+torchaudio
+
+# Hyperparameter tuning
+optuna
+
+# Additional utilities
+matplotlib
+seaborn
+joblib  # For saving models
+tqdm  # For progress bars
+
+
+#AutoML
+h2o 
+tpot 
+auto-sklearn 
+pycaret 
+autogluon 
+mljar-supervised
